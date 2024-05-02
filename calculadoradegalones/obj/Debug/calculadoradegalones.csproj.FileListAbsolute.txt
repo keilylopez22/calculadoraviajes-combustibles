@@ -1,0 +1,10 @@
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\bin\Debug\calculadoradegalones.exe.config
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\bin\Debug\calculadoradegalones.exe
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\bin\Debug\calculadoradegalones.pdb
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\obj\Debug\calculadoradegalones.csproj.AssemblyReference.cache
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\obj\Debug\calculadoradegalones.Form1.resources
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\obj\Debug\calculadoradegalones.Properties.Resources.resources
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\obj\Debug\calculadoradegalones.csproj.GenerateResource.cache
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\obj\Debug\calculadoradegalones.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\obj\Debug\calculadoradegalones.exe
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoradegalones\obj\Debug\calculadoradegalones.pdb

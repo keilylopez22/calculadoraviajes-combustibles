@@ -1,0 +1,10 @@
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\obj\Debug\calculadoraviajes.csproj.AssemblyReference.cache
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\obj\Debug\calculadoraviajes.Form1.resources
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\obj\Debug\calculadoraviajes.Properties.Resources.resources
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\obj\Debug\calculadoraviajes.csproj.GenerateResource.cache
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\obj\Debug\calculadoraviajes.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\bin\Debug\calculadoraviajes.exe.config
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\bin\Debug\calculadoraviajes.exe
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\bin\Debug\calculadoraviajes.pdb
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\obj\Debug\calculadoraviajes.exe
+C:\Users\keily\OneDrive\Escritorio\windowsform1\calculadoraviajes\obj\Debug\calculadoraviajes.pdb
